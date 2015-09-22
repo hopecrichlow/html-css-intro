@@ -9,3 +9,22 @@ h1 {
   text-align: center;
 }
 
+a:link {color: slategray;}
+
+header {
+  color: #6b7abb;
+  font-weight: 700;
+  font-style: oblique; 
+}
+
+.hours {
+  color: #0088cc;
+}
+
+.days {
+  color: #5e88b0;
+}
+
+.weeks {
+  color: #46afe3;
+}
