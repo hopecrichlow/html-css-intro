@@ -1,4 +1,10 @@
 body {
-  background-color: red;
+  background-image: url(https://40.media.tumblr.com/6a2f4f49fca7c351c68b23018587a6c8/tumblr_nuyjink90a1tlev8ko1_500.jpg);
+  background-size: cover;
+}
 
+h1 {
+  color: grey;
+  text-decoration: underline;
+  text-align: center;
 }
