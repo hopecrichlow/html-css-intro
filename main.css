@@ -2,24 +2,17 @@ body {
   margin: 0;
   background-image: url(https://40.media.tumblr.com/6a2f4f49fca7c351c68b23018587a6c8/tumblr_nuyjink90a1tlev8ko1_500.jpg);
   background-size: cover;
-  background-position: top left;
+  background-position: center left;
   max-width: 700px;
-  margin-left: auto
+  margin-left: auto;   
 }
 
-.gradient {
-  padding: 5px;
-  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ecece8+0,ecece8+100&1+39,0+62 */
-background: -moz-linear-gradient(left, rgba(236,236,232,1) 0%, rgba(236,236,232,1) 39%, rgba(236,236,232,0) 62%, rgba(236,236,232,0) 100%); /* FF3.6+ */
-background: -webkit-gradient(linear, left top, right top, color-stop(0%,rgba(236,236,232,1)), color-stop(39%,rgba(236,236,232,1)), color-stop(62%,rgba(236,236,232,0)), color-stop(100%,rgba(236,236,232,0))); /* Chrome,Safari4+ */
-background: -webkit-linear-gradient(left, rgba(236,236,232,1) 0%,rgba(236,236,232,1) 39%,rgba(236,236,232,0) 62%,rgba(236,236,232,0) 100%); /* Chrome10+,Safari5.1+ */
-background: -o-linear-gradient(left, rgba(236,236,232,1) 0%,rgba(236,236,232,1) 39%,rgba(236,236,232,0) 62%,rgba(236,236,232,0) 100%); /* Opera 11.10+ */
-background: -ms-linear-gradient(left, rgba(236,236,232,1) 0%,rgba(236,236,232,1) 39%,rgba(236,236,232,0) 62%,rgba(236,236,232,0) 100%); /* IE10+ */
-background: linear-gradient(to right, rgba(236,236,232,1) 0%,rgba(236,236,232,1) 39%,rgba(236,236,232,0) 62%,rgba(236,236,232,0) 100%); /* W3C */
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ecece8', endColorstr='#00ecece8',GradientType=1 ); /* IE6-9 */
-}
+/*.gradient {
+  
+}*/
 
 .container {
+  padding: 5px;
   background-image: url(https://40.media.tumblr.com/6a2f4f49fca7c351c68b23018587a6c8/tumblr_nuyjink90a1tlev8ko1_500.jpg);
   background-size: cover;
   background-position: bottom right;
